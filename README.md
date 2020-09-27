@@ -4,19 +4,22 @@
 |---|---
 |E-mail|sksksk1748@gmail.com
 
-## 廢言
+## Memo
 
 * EDA 課程作業，使用C/C++完成
 
-## 演算法
-* 字串需要正規化讀取blif檔測資
-* 使用QM演算法(此題目沒有完整加入)做邏輯閘化簡
+## Algorithm
 
-## 題目
+* 字串需要正規化讀取blif檔測資
+* 使用Graph Algorithm判斷current node 的 predecessor,successor
+* 使用QM Algorithm(此題目沒有完整加入)做邏輯閘化簡
+
+## Topic
 
 * 放在自己的Google Drive & USB
     * CAD EDA\HomeWork1 (Folder path)  
 
-## 參考
+## Reference
 
 * [QM Algorithm](https://www.codeproject.com/Articles/37031/Karnaugh-Map-Minimizer-Three-Variables)
+* [Graph Algorithm](https://www.youtube.com/watch?v=e5IAmuSYDHQ&ab_channel=adil)
